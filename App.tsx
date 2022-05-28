@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Amplify from 'aws-amplify';
+import { Amplify } from 'aws-amplify';
 import config from './src/aws-exports';
 import { withAuthenticator } from 'aws-amplify-react-native';
 
@@ -22,13 +22,12 @@ const styles = StyleSheet.create({
   },
 });
 
-
 Amplify.configure(config);
 
-const options = {
+const authenticatorOptions = {
   signUpConfig: {
     hiddenDefaults: ['phone_number'],
   },
 };
 
-export default withAuthenticator(App, options);
+export default withAuthenticator(App, authenticatorOptions);
