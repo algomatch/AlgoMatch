@@ -25,5 +25,10 @@ const styles = StyleSheet.create({
 
 Amplify.configure(config);
 
+const options = {
+  signUpConfig: {
+    hiddenDefaults: ['phone_number'],
+  },
+};
 
-export default withAuthenticator(App);
+export default withAuthenticator(App, options);
