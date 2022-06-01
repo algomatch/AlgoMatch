@@ -1,0 +1,232 @@
+{
+	"algos": [
+		{
+			"name": "Two Sum"
+		},
+		{
+			"name": "Longest Substring Without Repeating Characters"
+		},
+		{
+			"name": "Longest Palindromic Substring"
+		},
+		{
+			"name": "Container With Most Water"
+		},
+		{
+			"name": "3Sum"
+		},
+		{
+			"name": "Remove Nth Node From End of List"
+		},
+		{
+			"name": "Valid Parentheses"
+		},
+		{
+			"name": "Merge Two Sorted Lists"
+		},
+		{
+			"name": "Merge k Sorted Lists"
+		},
+		{
+			"name": "Search in Rotated Sorted Array"
+		},
+		{
+			"name": "Combination Sum"
+		},
+		{
+			"name": "Rotate Image"
+		},
+		{
+			"name": "Group Anagrams"
+		},
+		{
+			"name": "Maximum Subarray"
+		},
+		{
+			"name": "Spiral Matrix"
+		},
+		{
+			"name": "Jump Game"
+		},
+		{
+			"name": "Merge Intervals"
+		},
+		{
+			"name": "Insert Interval"
+		},
+		{
+			"name": "Unique Paths"
+		},
+		{
+			"name": "Climbing Stairs"
+		},
+		{
+			"name": "Set Matrix Zeroes"
+		},
+		{
+			"name": "Minimum Window Substring"
+		},
+		{
+			"name": "Word Search"
+		},
+		{
+			"name": "Decode Ways"
+		},
+		{
+			"name": "Validate Binary Search Tree"
+		},
+		{
+			"name": "Same Tree"
+		},
+		{
+			"name": "Binary Tree Level Order Traversal"
+		},
+		{
+			"name": "Maximum Depth of Binary Tree"
+		},
+		{
+			"name": "Construct Binary Tree from Preorder and Inorder Traversal"
+		},
+		{
+			"name": "Best Time to Buy and Sell Stock"
+		},
+		{
+			"name": "Binary Tree Maximum Path Sum"
+		},
+		{
+			"name": "Valid Palindrome"
+		},
+		{
+			"name": "Longest Consecutive Sequence"
+		},
+		{
+			"name": "Clone Graph"
+		},
+		{
+			"name": "Word Break"
+		},
+		{
+			"name": "Linked List Cycle"
+		},
+		{
+			"name": "Reorder List"
+		},
+		{
+			"name": "Maximum Product Subarray"
+		},
+		{
+			"name": "Find Minimum in Rotated Sorted Array"
+		},
+		{
+			"name": "Reverse Bits"
+		},
+		{
+			"name": "Number of 1 Bits"
+		},
+		{
+			"name": "House Robber"
+		},
+		{
+			"name": "Number of Islands"
+		},
+		{
+			"name": "Reverse Linked List"
+		},
+		{
+			"name": "Course Schedule"
+		},
+		{
+			"name": "Implement Trie (Prefix Tree)"
+		},
+		{
+			"name": "Design Add and Search Words Data Structure"
+		},
+		{
+			"name": "Word Search II"
+		},
+		{
+			"name": "House Robber II"
+		},
+		{
+			"name": "Contains Duplicate"
+		},
+		{
+			"name": "Invert Binary Tree"
+		},
+		{
+			"name": "Kth Smallest Element in a BST"
+		},
+		{
+			"name": "Lowest Common Ancestor of a Binary Search Tree"
+		},
+		{
+			"name": "Lowest Common Ancestor of a Binary Tree"
+		},
+		{
+			"name": "Product of Array Except Self"
+		},
+		{
+			"name": "Valid Anagram"
+		},
+		{
+			"name": "Meeting Rooms"
+		},
+		{
+			"name": "Meeting Rooms II"
+		},
+		{
+			"name": "Graph Valid Tree"
+		},
+		{
+			"name": "Missing Number"
+		},
+		{
+			"name": "Alien Dictionary"
+		},
+		{
+			"name": "Encode and Decode Strings"
+		},
+		{
+			"name": "Find Median from Data Stream"
+		},
+		{
+			"name": "Longest Increasing Subsequence"
+		},
+		{
+			"name": "Coin Change"
+		},
+		{
+			"name": "Number of Connected Components in an Undirected Graph"
+		},
+		{
+			"name": "Counting Bits"
+		},
+		{
+			"name": "Top K Frequent Elements"
+		},
+		{
+			"name": "Sum of Two Integers"
+		},
+		{
+			"name": "Pacific Atlantic Water Flow"
+		},
+		{
+			"name": "Longest Repeating Character Replacement"
+		},
+		{
+			"name": "Non-overlapping Intervals"
+		},
+		{
+			"name": "Serialize and Deserialize BST"
+		},
+		{
+			"name": "Subtree of Another Tree"
+		},
+		{
+			"name": "Palindromic Substrings"
+		},
+		{
+			"name": "Longest Common Subsequence"
+		}
+	]
+}
